@@ -7,3 +7,8 @@ body{
   font-family: Arial, sans-serif;
   font-size: 20px;
 }
+
+.block {
+  float:left;
+  width:33%;
+}
