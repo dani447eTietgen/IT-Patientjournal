@@ -27,10 +27,12 @@ body{
 #navbar ul{
   padding:0;
   list-style:none;
+  word-spacing:10px;
 }
 
 #navbar li{
   display:inline;
+  word-spacing:10px;
 }
 
 #navbar a{
