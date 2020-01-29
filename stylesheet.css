@@ -1,7 +1,3 @@
-h1{
-  color:green;
-}
-
 body{
   background-color:#f4f4f4;
   font-family: Arial, sans-serif;
@@ -11,5 +7,37 @@ body{
 .block {
   float:left;
   width:33%;
-  
+
+}
+
+.container {
+  width:80%;
+  margin:auto;
+  overflow:hidden;
+}
+
+#main-header{
+  background-color:coral;
+  color:#fff;
+}
+
+#navbar{
+  background-color:#333
+  color:#fff
+}
+
+#navbar ul{
+  padding:0;
+  list-style:none;
+}
+
+#navbar li{
+  display:inline:
+}
+
+#navbar a{
+  color:#fff
+  text-decoration:none;
+  font-size:18px;
+  padding-right:15px;
 }
