@@ -21,6 +21,7 @@ body{
 #navbar{
   background-color:#333;
   color:#fff;
+  word-spacing:10px;
 }
 
 #navbar ul{
@@ -30,7 +31,6 @@ body{
 
 #navbar li{
   display:inline;
-  word-spacing:1.6em;
 }
 
 #navbar a{
