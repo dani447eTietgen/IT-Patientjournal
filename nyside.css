@@ -30,6 +30,7 @@ body{
 
 #navbar li{
   display:inline;
+  word-spacing:1.6em;
 }
 
 #navbar a{
