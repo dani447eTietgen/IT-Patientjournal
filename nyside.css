@@ -39,3 +39,7 @@ body{
   font-size:18px;
   padding-right:15px;
 }
+
+button{
+  background-color: #333
+}
