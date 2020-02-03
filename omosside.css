@@ -1,0 +1,19 @@
+body{
+  background-color: #f4f4f4;
+  color:#555;
+  margin:0;
+}
+.container{
+  width:80%
+  margin:auto;
+  overflow: hidden;
+}
+
+#main-header{
+  background-color: #666;
+  color:white;
+}
+
+h1{
+  color:blue;
+}
