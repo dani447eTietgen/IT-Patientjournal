@@ -41,5 +41,8 @@ body{
 }
 
 #navbar button{
-  background-color:#333
+  background-color:#333;
+  color:#fff;
+  border-style:none;
+  font-size:20px;
 }
