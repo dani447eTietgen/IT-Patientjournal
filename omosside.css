@@ -12,9 +12,12 @@ body{
 
 .block{
   float:left;
-  width:33,3%;
+  width:33.3%;
+  padding:15px;
+  box-sizing: border-box;
 }
 
 #main-header{
-  font-size:200px;
+  font-size:150px;
+  text-align: center;
 }
