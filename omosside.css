@@ -17,7 +17,13 @@ body{
   box-sizing: border-box;
 }
 
+#showcase{
+  background-image:url('../kantinebil.jpg');
+  background-position: center;
+  height:120px;
+}
+
 #main-header{
-  font-size:150px;
+  font-size:100px;
   text-align: center;
 }
