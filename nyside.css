@@ -19,8 +19,8 @@ body{
 }
 
 #navbar{
-  background-color:#333;
-  color:#fff;
+  color: #fff;
+  background-color: #333;
 }
 
 #navbar ul{
@@ -45,6 +45,7 @@ body{
   color:#fff;
   border-style: none;
   font-size:20px;
+  cursor: pointer;
 }
 
 #main-footer{
@@ -63,4 +64,13 @@ body{
 #header2{
   font-size:60px;
   text-align: center;
+}
+
+button:hover{
+  color:red;
+  background-color: green;
+}
+
+.button:hover{
+  color:b
 }
